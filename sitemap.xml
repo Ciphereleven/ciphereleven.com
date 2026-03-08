@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ciphereleven.com/</loc>
-    <lastmod>2026-03-07</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-03-08</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 </urlset>
-```
-
-5. Click **Commit changes**
-
-**Step 3: Add `robots.txt`**
-
-1. Click **Add file** then **Create new file** again
-2. Name it **`robots.txt`**
-3. Paste this:
-```
-User-agent: *
-Allow: /
-Sitemap: https://ciphereleven.com/sitemap.xml
